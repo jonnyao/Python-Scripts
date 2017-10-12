@@ -220,4 +220,5 @@ The following people helped in creating the above content.
 * <a href="https://github.com/MadhavBahlMD" target="_blank">Madhav Bahl</a>
 
 
-### If you like the project give a star    <img src="zoom star1.png">
+### If you like the project give a star    
+                                         <img src="zoom star1.png">
